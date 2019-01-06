@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin-top: 50px auto 0 auto;
+  font-family: 'Ubuntu', sans-serif;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 5px;
+  width: 5%;
+}
+
+.top-container {
+  background-color: #E4F6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.pText{
+  color: #40514E;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.cooking {
+  color: #11999E;
+}
+
+.sk1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.sk2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  position: relative;
+  padding-top: 50px;
+}
